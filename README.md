@@ -1,16 +1,87 @@
 # Portfolio
 ## About Me
-Undergraduate CS student with detail-oriented and analytical-mindset. Currently, I am seeking opportunities in data-related roles and continuously improving my skills through hands-on projects. I am passionate about transforming raw data into meaningful insights and solving data-related issues. 
+Aspiring Data Analyst with hands-on experience in Excel, Python, SQL, and Power BI.
+Experienced in data cleaning, transformation, and visualization to uncover meaningful insights.
+Currently transitioning from operations management into data analytics and seeking entry-level data analyst opportunities.
 ## Skills
-- Microsoft Excel (Data Cleaning, Power Query, Pivot Table, Visualization)
-- Python (Pandas, Matplotlib, Numpy)
-- SQL (DQL, DML, DDL)
+### Data Tools
+- Microsoft Excel (Power Query, Pivot Tables, Dashboard Development)
+- Power BI (Data Modeling, DAX, Visualization)
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Joins, Aggregations, Subqueries)
+## Techniques
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Transformation
+- Data Modeling
+- Dashboard Development
+- ER-Diagram
+- Relational Schema
+- Database Management System
 ## Projects
+### Logistics Operation Analysis
+Tools Used: Power BI, Power Query
+#### Overview
+Analyzed 85,000+ logistics trips to evaluate operational efficiency, delivery performance, and detention delays. Built interactive dashboards to identify delay patterns and operational bottlenecks.
+#### Key Steps
+- Cleaned and transformed logistics dataset using Power Query
+- Built relationships across multiple tables
+- Created calculated KPIs for performance tracking
+- Developed interactive Power BI dashboards
+- Used geospatial visualization to identify delay hotspots
+#### Key Insights
+- Certain locations consistently showed high detention times
+- Pickup delays strongly impacted delivery performance
+- A small number of drivers contributed to higher detention duration
+#### Project Link
+https://github.com/min-nay-doon/Logistics-Operation-Analysis
+### Superstore Sales Analysis
+Tools Used: Python, SQL, Power BI
+#### Overview
+Analyzed retail sales dataset to identify trends in sales performance, profitability, and customer behavior.
+#### Key Steps
+- Cleaned dataset using Python (Pandas)
+- Loaded structured data into SQL database
+- Designed relational schema
+- Built Power BI dashboard
+- Analyzed sales and profit patterns
+#### Key Insights
+- Technology category generated highest profit
+- Some furniture sub-categories showed recurring losses
+- Certain regions consistently outperformed others
+#### Project Link
+https://github.com/min-nay-doon/Superstore-Sales-Analysis
 ### E-Commerce Sales Analysis
-- Performed end-to-end exploratory data analysis on a multi-table e-commerce dataset using Excel and Power Query. Cleaned and transformed data, created calculated metrics, and developed an interactive dashboard to uncover insights on sales trends, top-performing categories, regional performance, peak shopping hours and delivery operations.
+Tools Used: Excel, Power Query
+#### Overview
+Performed end-to-end analysis on multi-table e-commerce dataset to identify sales patterns and operational trends.
+#### Key Steps
+- Cleaned and transformed multi-table dataset using Power Query
+- Created calculated metrics and KPIs
+- Built interactive Excel dashboard
+- Analyzed sales trends and peak shopping hours
+- Identified top-performing categories and regional sales patterns
+#### Key Insights
+- Identified peak shopping hours contributing to highest revenue
+- Discovered top-performing product categories
+- Highlighted delivery performance patterns
 #### Project Link
-https://github.com/min-nay-doon/EDA-Project
+https://github.com/min-nay-doon/E-Commerce-Sales-Analysis
 ### Phone Sales Data Analysis
-- Performed end-to-end exploratory data analysis on phone sales dataset using Python(pandas, matplotlib, numpy, regex). Cleaned and transformed raw data, engineered features such as popularity and weighted ratings, and created visualization to identify top-selling, products, pricing patterns, and inventory risks.
+Tools Used: Python (Pandas, Matplotlib, NumPy)
+#### Overview
+Analyzed phone sales dataset to uncover pricing patterns and product demand trends.
+#### Key Steps
+- Cleaned raw dataset using Pandas
+- Performed feature engineering (popularity, weighted ratings)
+- Created visualizations to identify sales patterns
+- Analyzed pricing behavior across brands
+#### Key Insights
+- Identified top-selling phone brands
+- Detected pricing clusters
+- Highlighted inventory risk categories
 #### Project Link
-https://github.com/min-nay-doon/Phone-Sales-Data-Analysis-Using-Python
+https://github.com/min-nay-doon/Phone-Sales-Data-Analysis-By-Using-Python
+## Contact
+Email: minnaydoon00@gmail.com
+LinkedIn: linkedin.com/in/min-nay-doon
